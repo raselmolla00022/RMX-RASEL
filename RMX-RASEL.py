@@ -63,8 +63,8 @@ def logo():
           Author     : RASEL
           Telegram   : RASELMOLLA123          
           Facebook   : MD RASEL MOLLA
-          Github     : RASELMOLLA00022 
-          Version    : 
+          Github     : raselmolla00022 
+          Version    : 1.0
 \033[1;31m==================================================           
 \x1b[0;97m\x1b[1;43m         🍂  RASEL NAME IS BRAND 🥰          \x1b[0m
 ''')
